@@ -1,0 +1,14 @@
+C:\Coding\ThePoint\bin\Debug\net8.0\ThePoint.exe
+C:\Coding\ThePoint\bin\Debug\net8.0\ThePoint.deps.json
+C:\Coding\ThePoint\bin\Debug\net8.0\ThePoint.runtimeconfig.json
+C:\Coding\ThePoint\bin\Debug\net8.0\ThePoint.dll
+C:\Coding\ThePoint\bin\Debug\net8.0\ThePoint.pdb
+C:\Coding\ThePoint\obj\Debug\net8.0\ThePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\ThePoint\obj\Debug\net8.0\ThePoint.AssemblyInfoInputs.cache
+C:\Coding\ThePoint\obj\Debug\net8.0\ThePoint.AssemblyInfo.cs
+C:\Coding\ThePoint\obj\Debug\net8.0\ThePoint.csproj.CoreCompileInputs.cache
+C:\Coding\ThePoint\obj\Debug\net8.0\ThePoint.dll
+C:\Coding\ThePoint\obj\Debug\net8.0\refint\ThePoint.dll
+C:\Coding\ThePoint\obj\Debug\net8.0\ThePoint.pdb
+C:\Coding\ThePoint\obj\Debug\net8.0\ThePoint.genruntimeconfig.cache
+C:\Coding\ThePoint\obj\Debug\net8.0\ref\ThePoint.dll
