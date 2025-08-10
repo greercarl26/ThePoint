@@ -8,7 +8,7 @@ Console.WriteLine($"({point2.X},{point2.Y})");
 class Point
 {
     // Feilds
-    private float _x;
+    private float _x; 
     private float _y;
 
     //Constrctors
